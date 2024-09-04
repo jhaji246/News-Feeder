@@ -2,7 +2,6 @@ package com.avi.newsfeeder.presentation.bookmark
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
-import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
@@ -13,7 +12,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.text.font.FontWeight
-import com.loc.newsapp.R
+import com.avi.newsfeeder.R
 import com.avi.newsfeeder.domain.model.Article
 import com.avi.newsfeeder.presentation.Dimens.MediumPadding1
 import com.avi.newsfeeder.presentation.common.ArticlesList
